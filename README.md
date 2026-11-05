@@ -29,4 +29,4 @@ An intelligent document question-answering system built using **Retrieval-Augmen
 
 
 <img src=output/output1.png>
-<img src=output/output1.png>
+<img src=output/image2.png>
