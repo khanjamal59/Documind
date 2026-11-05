@@ -26,3 +26,7 @@ An intelligent document question-answering system built using **Retrieval-Augmen
 | Hugging Face | Text embeddings                        |
 | Groq API     | LLM inference                          |
 | PyPDF        | PDF text extraction                    |
+
+
+<img src=output/output1.png>
+<img src=output/output1.png>
